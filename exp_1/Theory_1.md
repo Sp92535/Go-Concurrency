@@ -41,5 +41,3 @@ Create a program where multiple goroutines print numbers from different ranges c
 6. **Recognize that `time.Sleep()` is not a proper way to synchronize goroutines.**  
 7. **Learn about `sync.WaitGroup` and how it properly synchronizes goroutines.**  
 8. **Analyze how goroutines behave when executing multiple concurrent tasks.**  
-
----

@@ -35,5 +35,3 @@ Modify the previous experiment to ensure all goroutines finish before the main f
 3. **Inside each goroutine, call `wg.Done()` when the function completes execution.**  
 4. **In the main function, call `wg.Wait()` to ensure all goroutines finish before proceeding.**  
 5. **Observe that goroutines now complete execution properly without artificial delays.**  
-
----
