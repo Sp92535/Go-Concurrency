@@ -1,0 +1,14 @@
+[
+    {
+        "ID": 1,
+        "URL": "https://infinityplay.vercel.app",
+        "Title": "InfinityPlay",
+        "Links": "https://infinityplay.vercel.app/,https://infinityplay.vercel.app/category/new,https://infinityplay.vercel.app/category/popular,https://infinityplay.vercel.app/category/action,https://infinityplay.vercel.app/category/racing,https://infinityplay.vercel.app/category/shooting,https://infinityplay.vercel.app/category/sports,https://infinityplay.vercel.app/category/strategy,https://infinityplay.vercel.app/category/puzzle,https://infinityplay.vercel.app/category/io,https://infinityplay.vercel.app/category/2-player,https://infinityplay.vercel.app/submit-a-game,https://infinityplay.vercel.app/about-us,https://infinityplay.vercel.app/terms,"
+    },
+    {
+        "ID": 2,
+        "URL": "https://timeless-treasures-psi.vercel.app/",
+        "Title": "Time Capsule",
+        "Links": ""
+    }
+]
